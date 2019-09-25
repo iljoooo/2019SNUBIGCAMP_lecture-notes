@@ -11,4 +11,5 @@
 1. **드라이브에 사본 저장**을 클릭하면 됩니다.
 
 - [파이썬에서의 데이터베이스 활용](https://colab.research.google.com/drive/1xvw_RO-dqzOIKxdr7JbjBf7mXCAgb6oY)
+- [파이썬에서의 데이터베이스 활용-답안](https://colab.research.google.com/drive/1hy7jKfqBxA6EwqEOVGim9SKGDKIXW_7t)
 
